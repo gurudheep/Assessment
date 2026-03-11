@@ -1,5 +1,4 @@
-import '../styles/DeleteConfirmation.css';
-
+import '../../styles/DeleteConfirmation.css';
 function DeleteConfirmation({ onConfirm, onCancel }) {
   return (
     <div className="delete-modal-overlay">
